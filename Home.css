@@ -810,7 +810,7 @@
   width: 394px;
   min-height: 311px;
   height: auto;
-  margin: -221px 19px 0 auto;
+  margin: -235px 19px 0 auto;
 }
 
 .u-section-7 .u-text-1 {
@@ -838,7 +838,6 @@
 .u-section-7 .u-group-2 {
   width: 394px;
   min-height: 273px;
-  height: auto;
   margin: -185px 30px 0 auto;
 }
 
@@ -896,10 +895,6 @@
 
   .u-section-7 .u-layout-cell-2 {
     min-height: 340px;
-  }
-
-  .u-section-7 .u-group-2 {
-    height: auto;
   }
 
   .u-section-7 .u-container-layout-4 {
@@ -1454,12 +1449,12 @@
 }
 
 .u-section-9 .u-text-7 {
-  margin: 35px 0 0 20px;
+  margin: 79px 0 0 20px;
 }
 
 .u-section-9 .u-text-8 {
   font-size: 1.125rem;
-  margin: 20px 0 35px 20px;
+  margin: 52px 0 0 20px;
 }
 
 @media (max-width: 1199px) {
@@ -1643,12 +1638,12 @@
   }
 
   .u-section-9 .u-text-7 {
-    margin-top: 35px;
+    margin-top: 79px;
     margin-left: 6px;
   }
 
   .u-section-9 .u-text-8 {
-    margin-bottom: 35px;
+    margin-bottom: 0;
     margin-left: 6px;
   }
 } .u-section-10 {
@@ -1826,7 +1821,7 @@
 
 .u-section-11 .u-image-2 {
   height: auto;
-  background-image: url("images/edouard.jpg");
+  background-image: url("images/edouard-27.jpg");
   background-position: 50% 50%;
   margin: 5px 16px 0;
 }
@@ -1834,7 +1829,7 @@
 .u-section-11 .u-image-3 {
   width: 264px;
   height: 264px;
-  background-image: url("images/edouard-28.jpg");
+  background-image: url("images/edouard.jpg");
   background-position: 50% 50%;
   margin: -5px 0 0 auto;
 }
