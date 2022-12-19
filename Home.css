@@ -61,7 +61,7 @@
     width: auto;
   }
 }.u-section-3 .u-sheet-1 {
-  min-height: 365px;
+  min-height: 366px;
 }
 
 .u-section-3 .u-layout-wrap-1 {
@@ -290,23 +290,27 @@
   }
 } .u-section-4 {
   background-image: none;
-  min-height: 835px;
+  min-height: 848px;
 }
 
 .u-section-4 .u-group-1 {
-  min-height: 461px;
+  min-height: 474px;
   height: auto;
   margin-top: 0;
   margin-bottom: 0;
 }
 
 .u-section-4 .u-container-layout-1 {
-  padding: 0 30px 30px;
+  padding: 0 30px;
+}
+
+.u-section-4 .u-text-1 {
+  margin: 26px auto 0 20px;
 }
 
 .u-section-4 .u-blog-1 {
   width: 1140px;
-  margin: 74px auto -345px;
+  margin: 22px auto -308px;
 }
 
 .u-section-4 .u-repeater-1 {
@@ -329,11 +333,11 @@
   margin-bottom: 0;
 }
 
-.u-section-4 .u-text-1 {
+.u-section-4 .u-text-2 {
   margin: 22px 22px 0;
 }
 
-.u-section-4 .u-text-2 {
+.u-section-4 .u-text-3 {
   margin: 22px 22px 0;
 }
 
@@ -360,11 +364,11 @@
   margin-bottom: 0;
 }
 
-.u-section-4 .u-text-3 {
+.u-section-4 .u-text-4 {
   margin: 22px 22px 0;
 }
 
-.u-section-4 .u-text-4 {
+.u-section-4 .u-text-5 {
   margin: 22px 22px 0;
 }
 
@@ -391,11 +395,11 @@
   margin-bottom: 0;
 }
 
-.u-section-4 .u-text-5 {
+.u-section-4 .u-text-6 {
   margin: 22px 22px 0;
 }
 
-.u-section-4 .u-text-6 {
+.u-section-4 .u-text-7 {
   margin: 22px 22px 0;
 }
 
@@ -438,12 +442,12 @@
     height: 235px;
   }
 
-  .u-section-4 .u-text-1 {
+  .u-section-4 .u-text-2 {
     margin-left: 0;
     margin-right: 0;
   }
 
-  .u-section-4 .u-text-2 {
+  .u-section-4 .u-text-3 {
     margin-left: 0;
     margin-right: 0;
   }
@@ -456,12 +460,12 @@
     height: 235px;
   }
 
-  .u-section-4 .u-text-3 {
+  .u-section-4 .u-text-4 {
     margin-left: 0;
     margin-right: 0;
   }
 
-  .u-section-4 .u-text-4 {
+  .u-section-4 .u-text-5 {
     margin-left: 0;
     margin-right: 0;
   }
@@ -474,12 +478,12 @@
     height: 235px;
   }
 
-  .u-section-4 .u-text-5 {
+  .u-section-4 .u-text-6 {
     margin-left: 0;
     margin-right: 0;
   }
 
-  .u-section-4 .u-text-6 {
+  .u-section-4 .u-text-7 {
     margin-left: 0;
     margin-right: 0;
   }
