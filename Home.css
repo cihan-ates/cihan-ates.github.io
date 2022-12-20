@@ -1844,6 +1844,12 @@
   padding: 0;
 }
 
+.u-section-9 .u-btn-3 {
+  background-image: none;
+  font-style: normal;
+  padding: 0;
+}
+
 @media (max-width: 1199px) {
   .u-section-9 .u-sheet-1 {
     min-height: 1252px;
