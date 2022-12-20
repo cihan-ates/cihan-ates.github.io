@@ -38660,48 +38660,33 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-nav-1 {
   font-weight: 400;
   font-size: 1.25rem;
+  letter-spacing: normal;
 }
 
 .u-header .u-nav-2 {
   font-size: 1.25rem;
 }
-
-.u-header .u-text-1 {
-  background-image: none;
-  font-size: 1.875rem;
-  margin: -34px 926px 10px 0;
-}
 @media (max-width: 1199px) {
-  .u-header .u-nav-1 {
-    letter-spacing: normal;
-  }
-
-  .u-header .u-text-1 {
-    width: auto;
-    margin-right: 617px;
-    margin-bottom: 20px;
+  .u-header .u-menu-1 {
+    margin: 20px 0 16px;
   }
 }
 @media (max-width: 991px) {
-  .u-header .u-text-1 {
-    margin-top: 20px;
-    margin-right: 465px;
-    margin-bottom: 10px;
+  .u-header .u-sheet-1 {
+    min-height: 122px;
+  }
+
+  .u-header .u-menu-1 {
+    margin-bottom: 60px;
   }
 }
 @media (max-width: 767px) {
-  .u-header .u-text-1 {
-    margin-right: 264px;
-    margin-bottom: 20px;
+  .u-header .u-menu-1 {
+    margin-left: auto;
+    margin-right: auto;
   }
 }
-@media (max-width: 575px) {
-  .u-header .u-text-1 {
-    font-size: 1.25rem;
-    margin-top: -29px;
-    margin-right: 108px;
-  }
-}
+
 .u-footer .u-sheet-1 {
   min-height: 100px;
 }
